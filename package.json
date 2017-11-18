@@ -1,7 +1,7 @@
 {
   "name": "project1",
   "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "description": "A wild ass random number generator.",
   "main": "server.js",
   "repository": "",
   "author": "Tony Emerson <anthonysemerson@gmail.com>",
